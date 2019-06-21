@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kevin\\Desktop\\Master_JavaScript\\Curso-Ajax-JavaScript\\Método-Fetch\\Backend\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kevin\\Desktop\\Master_JavaScript\\Curso-Ajax-JavaScript\\Método-Fetch\\Backend\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Master_JavaScript\\Curso-Ajax-JavaScript\\Método-Fetch\\Backend\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch.csproj",
+        "projectName": "PeticionesAjaxJavaScriptFetch",
+        "projectPath": "C:\\Users\\kevin\\Desktop\\Master_JavaScript\\Curso-Ajax-JavaScript\\Método-Fetch\\Backend\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\Desktop\\Master_JavaScript\\Curso-Ajax-JavaScript\\Método-Fetch\\Backend\\PeticionesAjaxJavaScriptFetch\\PeticionesAjaxJavaScriptFetch\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
